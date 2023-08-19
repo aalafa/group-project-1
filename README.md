@@ -35,8 +35,7 @@ Our analysis revealed that household incomes vary from state to state. Despite t
 
 ![Fig14](https://github.com/aalafa/group-project-1/assets/132237292/d2e32664-5339-4a72-a09b-bad1d6ded5b6)
 
-![Fig12](https://github.com/aalafa/group-project-1/assets/132237292/6330e62a-3ed9-44c9-a604-452ada263924)
-
+![fig12_720](https://github.com/aalafa/group-project-1/assets/132237292/3fd34758-1bdf-4b03-bd2b-9d88bbbffcb6)
 
 ## Conclusion:
 
