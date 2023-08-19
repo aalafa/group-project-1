@@ -15,6 +15,8 @@ This project analyzes housing market trends in relation to the average family in
 
 API Key needed in order access census data to pull median household income.
 
+<img width="239" alt="API KEY Project 1" src="https://github.com/aalafa/group-project-1/assets/132237292/15ac1339-6585-4408-9aa9-5a5ec2774a7b">
+
 ## Motivation:
 
 Our motivation for this project is to shed light on the economic hardships faced by young Americans, particularly those in the 18 to 25 age group. With economic disparities and the impact of the Covid-19 pandemic, the purchasing power of this segment has weakened, making it challenging to afford homes and build personal wealth. We believe it's crucial to raise awareness about these issues and their implications. In doing so, we may be able to curtail the impact of economic disparities and allow for the segment to begin to prosper.
@@ -30,6 +32,10 @@ We used Pandas to process the datasets obtained from censusdata.gov. Our team me
 ## Findings:
 
 Our analysis revealed that household incomes vary from state to state. Despite this variation, the challenge of purchasing a home at the age of 25 remains a significant hurdle across the country. The gap between income and home prices underscores the difficulty young Americans face in entering the housing market and building wealth.
+
+![Fig14](https://github.com/aalafa/group-project-1/assets/132237292/d2e32664-5339-4a72-a09b-bad1d6ded5b6)
+
+![Fig13](https://github.com/aalafa/group-project-1/assets/132237292/a45eefab-9c55-4cbe-85f6-2a8d1492eb11)
 
 ## Conclusion:
 
