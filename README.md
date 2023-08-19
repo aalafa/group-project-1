@@ -35,8 +35,6 @@ Our analysis revealed that household incomes vary from state to state. Despite t
 
 ![Fig14](https://github.com/aalafa/group-project-1/assets/132237292/d2e32664-5339-4a72-a09b-bad1d6ded5b6)
 
-![fig12_720](https://github.com/aalafa/group-project-1/assets/132237292/3fd34758-1bdf-4b03-bd2b-9d88bbbffcb6)
-
 ## Conclusion:
 
 This project aims to raise awareness about the economic disparities young Americans encounter in the housing market. By presenting concrete data and insights, we hope to contribute to the ongoing dialogue about economic challenges faced by the 18 to 25 age group.
